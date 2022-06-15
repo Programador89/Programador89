@@ -4,11 +4,11 @@
 
 Conhecimento em ERP: Protheus (TOTVS)
 Módulos: 
- - Controle de Lojas 
- - Financeiro
- - Compras 
- - Estoque 
- - Faturamento
+ - **Controle de Lojas** 
+ - **Financeiro**
+ - **Compras** 
+ - **Estoque** 
+ - **Faturamento**
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-dantas-804317a6/)
