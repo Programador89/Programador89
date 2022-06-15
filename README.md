@@ -18,7 +18,7 @@ Módulos:
 ![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
-![Programador89 GitHub stats](https://github-readme-stats.vercel.app/api?username=Programador89&show_icons=true&theme=onedark)
+![Programador89 GitHub stats](https://github-readme-stats.vercel.app/api?username=Programador89&show_icons=true&theme=light)
 
 ### Tecnologias que estudo: 
 <div style="display: inline_block"><br>
